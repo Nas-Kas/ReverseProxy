@@ -51,7 +51,7 @@ sudo /etc/intit.d/apache2 start
 if you run into error here something else could possibly be running on port 80 like nginx turn off other services
 
 
-![preview](https://github.com/Nasir-Kasumu/ReverseProxy/blob/master/screen.jpg?raw=true)
+![preview](https://github.com/Nasir-Kasumu/ReverseProxy/blob/master/screen.png?raw=true)
 
 
 
